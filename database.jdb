@@ -1,0 +1,1 @@
+Freebootcar={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://evea.uh.cu/', 'moodle_repo_id': 4, 'moodle_user': 'asdasd', 'moodle_password': '123', 'isadmin': 1, 'zips': 240, 'uploadtype': 'calendar', 'proxy': '', 'tokenize': 0, 'rename': 0}
